@@ -21,5 +21,10 @@ every minute by some timer hardware.
 
 Everything else could be pretty much the same.
 
-
+Answers 
+1)It starts at this time because that's when most clocks start at.
+3)It would take 60 times, and you can just set it to "1:00".
+5)public Rectangle window(length,width);
+6)It creates the clock at the set time you put in.
+7) 
 Note: This project does not implement adequate handling of errors.
