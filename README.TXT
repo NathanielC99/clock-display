@@ -33,5 +33,7 @@ Answers
 9)two squares, a triangle and a circle.
 10)changeSize, moveHorizontal, moveVertical, and makeVisable.
 11)yes.
-12)
+12)2
+13)When negatives are used it gives a negative if it was on the left but a possitive if the negative was on the left.
+17)The 24 hour one is better because it doesn't have to change to pm and you can make it a lot easier.
 Note: This project does not implement adequate handling of errors.
