@@ -26,5 +26,12 @@ Answers
 3)It would take 60 times, and you can just set it to "1:00".
 5)public Rectangle window(length,width);
 6)It creates the clock at the set time you put in.
-7) 
+7)It does not have a call to updateDisplay because it sets the display to the imputed time.
+8)1.System.out.println(filname);
+    System.out.println(doubleSided);
+  2.return delay
+9)two squares, a triangle and a circle.
+10)changeSize, moveHorizontal, moveVertical, and makeVisable.
+11)yes.
+12)
 Note: This project does not implement adequate handling of errors.
